@@ -4,4 +4,4 @@ print("")
 print("welcome!")'''
 
 for i in [1,3,5]:
-    print(i,"환영")
+    print(i,"환영",end=" ")
